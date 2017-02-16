@@ -1,0 +1,76 @@
+/* My custom CSS. */
+
+/* Misc */
+*d {
+    border: 1px solid red;
+}
+
+/* Global */
+body {
+    background: black;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* Header */
+.jumbotron {
+    background: #ba9c5e;   
+    text-align: center;
+    /* remove space between jumbotron and blogspace */
+    margin: 0;
+}
+
+.jumbotron p {    
+    font-size: 26px;
+}
+
+/* Blogspace */
+.blogspace {
+    background: #3e4649;
+}
+
+/* .col-sm-12 {
+    background: #e68a00;
+} */
+
+/* Sidebar */
+.blog-sidebar {
+    background: #594826;
+}
+
+/* Portfolio */
+.portfolio {
+    background: #2f3537;
+    padding-bottom: 10px;
+}
+
+.work {
+    text-align: center;
+    padding: 5px 0 15px 0;
+    font-weight: lighter;
+    font-size: 24px;
+}
+
+.caption {
+    text-align: center;
+}
+
+/* Footer */
+.bootstrap-link {
+    margin: 20px;
+    font-size: 13px;
+    text-align: center;
+}
+
+/* Bootstrap has no media queries for narrower widths? like most smartphones have? */
+/* Bootstrap has no media queries for narrower widths? like most smartphones have? */
+@media (max-width: 470px) {
+    .col-xxs-12 {
+        float: left;
+        width: 100%;
+    }
+ 
+    .jumbotron p {    
+    font-size: 17px;
+    }
+}
