@@ -20,15 +20,15 @@ In other site-conversion projects it's possible that you have to replace or re-e
 Notes about the Theme screenshot from the WordPress Codex: 
 The screenshot of the theme (see Dashboard - Appearance - Themes) should be in the root of the theme site folder 
 and should be named screenshot.png. 
-The recommended image size is exactly 1200x900 (Jocca: or another size that's close but with the same width-height ratio. 
-Otherwise the screenhot wil not align in the screenshot holder shown at the Details page of the theme). 
-The screenshot will only be shown as 387x290, but the over double-sized image allows for high-resolution 
+The recommended image size is 1200x900 or another size that's close but with the same width-height ratio. 
+Otherwise the screenhot wil not align in the screenshot holder shown at the Details page of the theme. 
+The screenshot will only be shown as 387x290, but the double-sized image allows for high-resolution 
 viewing on HiDPI displays.
 
 Favicon: Dashboard - Appearance - Customize - Site Identity - Site Icon
 
-The site still needs a few CSS adjustments but the conversion of my temp portf site to a WordPress theme is succesful. 
-Now I can make any html-css combination into a WordPress theme :)
+The site still needs a few CSS adjustments but the conversion of my temp portfolio site to a WordPress theme is succesful. 
+Now I can make any html-css combination or PhotoShop/GIMP template into a WordPress theme :)
 -->
 
 <?php get_header(); ?>
