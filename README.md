@@ -6,7 +6,7 @@ The theme is placed in a WordPress 4.7.2 installation. It's a former basic versi
 It uses Bootstrap v3.3.7 ( http://getbootstrap.com ). As of yet no Sass/Less and Grunt/Gulp implemented.
 Contents of bootstrap.css (unminified) have to be viewed through the Bootstrap site.
 
-This a wordpress theme from scratch. See the WordPress tutorial on https://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/. See also https://codex.wordpress.org/.
+This a wordpress theme from scratch. See https://codex.wordpress.org/ for more information about theme development.
 
 This theme minimally needed added blog functionality to make the conversion to WordPress useful. So it has an added blog section.
 Therefore we will have to have index.php calling header.php, footer.php, sidebar.php and content.php. In the WordPress Codex you can find more about WordPress' html filestructure.
