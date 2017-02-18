@@ -1,4 +1,4 @@
-<!-- single blogpost html, één post per pagina:
+<!-- single blogpost html, one post per page:
 Content for the WordPress loop -->
 
 <div class="blog-post">

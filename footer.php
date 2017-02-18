@@ -13,7 +13,7 @@
                     <!-- Note 1: uploading pictures to the Media Library of Wordpress is meant for attaching pictures to Posts or Pages. Outside of that I wil use my own img folder.
 
                     Note 2: Picture is dynamically loaded by Wordpress: -->
-                    <img class="thumbnail img-responsive" src="<?php bloginfo('template_directory');?>/img/html5template-400x233.jpg" alt="HTML5 Site 2016"></a>
+                    <img class="thumbnail img-responsive" src="<?php bloginfo('template_directory');?>/img/modal-clock3d.jpg" alt="Clock 3D"></a>
 
                 <div class="caption">
                     <p>HTML5 Site 2016</p>
@@ -23,7 +23,7 @@
             <div class="col-xs-6 col-md-3 col-xxs-12">
 
                 <a target="blank" href="mysck/index.html">
-                    <img class="thumbnail img-responsive" src="<?php bloginfo('template_directory');?>/img/mysck-400x233.jpg" alt="Mysck Trilogie 2011"></a>
+                    <img class="thumbnail img-responsive" src="<?php bloginfo('template_directory');?>/img/modal-csscode.jpg" alt="Mysck Trilogie 2011"></a>
 
                 <div class="caption">
                     <p>Mysck 2011</p>
@@ -33,7 +33,7 @@
             <div class="col-xs-6 col-md-3 col-xxs-12">
 
                 <a target="blank" href="img/joccaweb-old-widescreen.jpg">
-                    <img class="thumbnail img-responsive" src="<?php bloginfo('template_directory');?>/img/joccaweb-old-400x233.jpg" alt="JoccaWeb 2010"></a>
+                    <img class="thumbnail img-responsive" src="<?php bloginfo('template_directory');?>/img/modal-elephant.jpg" alt="JoccaWeb 2010"></a>
 
                 <div class="caption">
                     <p>JoccaWeb 2010</p>
@@ -43,7 +43,7 @@
             <div class="col-xs-6 col-md-3 col-xxs-12">
 
                 <a target="blank" href="aansluiter/index.html">
-                    <img class="thumbnail img-responsive" src="<?php bloginfo('template_directory');?>/img/aansluiter-400x233.jpg" alt="Aansluiter 2008"></a>
+                    <img class="thumbnail img-responsive" src="<?php bloginfo('template_directory');?>/img/modal-htmlscrabble.jpg" alt="Aansluiter 2008"></a>
 
                 <div class="caption">
                     <p>Aansluiter 2008</p>
