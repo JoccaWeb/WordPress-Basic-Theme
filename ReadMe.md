@@ -7,7 +7,7 @@ This a wordpress theme from scratch. I converted a handmade HTML-CSS site to thi
 See also https://codex.wordpress.org/ for more information about WordPress theme development.
 
 I have the index.php file calling header.php, footer.php, sidebar.php and content.php. Pages (non-blog entries) wil be auto-generated in content.php, see header.php.
-For having pages without the sidebar (and blog with the sidebar) pages.php has is added as a 2nd index. Single.php is a 3d index, for getting one post per page.
+For having pages without the sidebar (and the blog entries with the sidebar) pages.php is added as a 2nd index. Single.php is a 3d index, for getting one post per page.
 You can add new php files if you want to have new sections in the layout of the site, but you have to put in code that that makes them custom template files. See https://codex.wordpress.org/Theme_Development#Template_Files_List.
 
 The conversion of my html-css site to a WordPress theme is succesful. Now I can make any html-css combination into a WordPress theme :)
