@@ -1,4 +1,5 @@
-<!-- Example code from TaniaRascia's tutorial (a Bootstrap blog example, http://getbootstrap.com/examples/blog/) -->
+<!-- A Bootstrap sidebar example, implemented in the sidebar of this theme
+(http://getbootstrap.com/examples/blog/) -->
 
 <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
     <div class="sidebar-module sidebar-module-inset">
