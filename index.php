@@ -2,7 +2,7 @@
 
 <?php get_header(); ?>
 
-<!-- blog layout with Bootstrap grid: -->
+<!-- blog layout with Bootstrap layout grid: -->
 <div class="blogspace">
         
     <div class="container">
