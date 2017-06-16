@@ -62,8 +62,7 @@ body {
     text-align: center;
 }
 
-/* Bootstrap has no media queries for narrower widths? like most smartphones have? */
-/* Bootstrap has no media queries for narrower widths? like most smartphones have? */
+/* media query for narrow screens (though Bootstrap has that too somewhere) */
 @media (max-width: 470px) {
     .col-xxs-12 {
         float: left;
