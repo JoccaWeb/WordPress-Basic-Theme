@@ -15,7 +15,7 @@ You can add new php files if you want to have new sections in the layout of the 
 The conversion of my html-css site to a WordPress theme is succesful. Now I can make any html-css combination into a WordPress theme :)
 
 ### Installation Instructions
-These are only the theme files, you'll have to set up a server with a Wordpress installation. See the credits for a suggestion
+These are only the theme files, you'll have to set up a server with a Wordpress installation and then load and install this theme. See the credits for a server suggestion and WordPress.org for WordPress installation.
 
 ### Credits:
 - [Get Bootstrap](http://getbootstrap.com)
