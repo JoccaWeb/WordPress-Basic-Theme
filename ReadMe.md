@@ -1,9 +1,8 @@
 # WordPress Theme Template
 
-This WordPress Theme template uses Bootstrap v3.3.7 and assumes intermediate knowledge of HTML, CSS and basic knowledge of PHP. 
+This WordPress Theme template uses Bootstrap v3.3.7 and assumes intermediate knowledge of HTML, CSS and basic knowledge of PHP.
 
-See http://getbootstrap.com (no Sass/Less and Grunt/Gulp).
-The contents of bootstrap.css (unminified) can be viewed by downloading the Bootstrap files from the site.
+See http://getbootstrap.com.
 
 This a wordpress theme from scratch. I converted a handmade HTML-CSS site to this theme. See the WordPress tutorial on https://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/. This tutorial offers a nice step by step explanation.
 See also https://codex.wordpress.org/ for more information about WordPress theme development.
@@ -13,3 +12,6 @@ For having pages without the sidebar (and the blog entries with the sidebar), pa
 You can add new php files if you want to have new sections in the layout of the site, but you have to put in code that that makes them custom template files. See https://codex.wordpress.org/Theme_Development#Template_Files_List.
 
 The conversion of my html-css site to a WordPress theme is succesful. Now I can make any html-css combination into a WordPress theme :)
+
+### Credits:
+- [Get Bootstrap]
