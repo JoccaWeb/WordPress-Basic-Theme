@@ -12,5 +12,5 @@ Pages (non-blog entries) wil be auto-generated in content.php, see header.php.<b
 For having pages without the sidebar (and the blog entries with the sidebar), pages.php is added as a 2nd index. Single.php is a 3d index, for getting one post per page.<br>
 You can add new php files if you want to have new sections in the layout of the site, but you have to put in code that that makes them custom template files. See [WP Theme Template Files]( https://codex.wordpress.org/Theme_Development#Template_Files_List).
 
-### Installation
+## Installation
 These are only the theme files, you'll have to set up a server with a Wordpress installation and then load and install this theme. See the credits for [Ampps](http://www.ampps.com/), a free and suitable server.
