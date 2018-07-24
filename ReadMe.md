@@ -2,6 +2,8 @@
 
 This [WordPress](http://www.wordpress.org) Theme template uses [Bootstrap](http://getbootstrap.com) v3.3.7 and assumes intermediate knowledge of HTML, CSS and basic knowledge of PHP.
 
+![scene in a-frame inspector](img/modal02-aframe-vr-b.jpg) 
+
 ## Project Goal
 This a wordpress theme from scratch. I converted a handmade HTML-CSS site to this theme. See the WordPress tutorial on [TaniaRascia.com](https://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/). This tutorial offers a nice step by step explanation.
 See also the [WordPress Codex](https://codex.wordpress.org/) for more information about WordPress theme development.
